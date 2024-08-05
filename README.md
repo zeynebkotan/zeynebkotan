@@ -8,7 +8,7 @@ Skills: Matlab / Python
 - 🌱 I’m currently learning Python. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zeynebkotan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeyneb-kotan-081666258/)  
+[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/zeyneb-kotan-081666258/)
 
 
 
