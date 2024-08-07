@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Zeyneb.
-#### I am a molecular biotechnology student, who's intered in programming.
+#### I am a molecular biotechnology student, who's interested in programming.
 ![I am a molecular biotechnology student, who's intered in programming.](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThyNmgyaWI5cGJkcm9pMnpiOXVtYTEzMGVuYWRqMTE3cHJhaDgwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpEH21sHkWQQ8/giphy.gif)
 
 
